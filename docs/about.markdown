@@ -4,15 +4,4 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+I'm an evolutionary biologist, biomechanist and vertebrate palaeontologist, trying to answer the perennial question; "how do animals work and why do they look like that?". I study links between skeletal form and animal function- feeding, breathing, locomotion- in both living and fossil vertebrates to better understand major transitions in vertebrate evolution. I use a combination of 3D models & visualizations, computational biomechanics, statistical shape analysis, and evolutionary comparative methods to answer a range of biological questions across the vertebrate tree of life.
